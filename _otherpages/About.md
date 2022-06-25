@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: post
 filename: About.md
 --- 
 
