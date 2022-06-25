@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: page
+layout: post
 filename: Publications.md
 --- 
 
