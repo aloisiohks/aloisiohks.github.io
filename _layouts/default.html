@@ -29,9 +29,8 @@ var WRInitTime=(new Date()).getTime();
   <div class="title">
     <a href="/">Aloisio Kawakita de Souza</a>
     <a class="extra" href="/">Home</a>
-    {% for post in site.pagess %}
-     <a  class="extra" href="{{ post.url }}">{{ post.title }}</a>
-    {% endfor %}
+    <a class="extra" href="{{ site.baseurl }}/about">About</a>
+    <a class="extra" href="{{ site.baseurl }}/about">Publications</a>
   </div>
 
   {{ content }}
