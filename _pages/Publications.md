@@ -4,26 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Publications
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+ <a href="https://ieeexplore.ieee.org/document/9483433">M. A. Xavier, A. K. de Souza and M. S. Trimboli, "An LPV-MPC Inspired Battery SOP Estimation Algorithm Using a Coupled Electro-Thermal Model," 2021 American Control Conference (ACC), 2021, pp. 4421-4426, doi: 10.23919/ACC50511.2021.9483433.</a>
 
-## Features
+<a href="https://ieeexplore.ieee.org/document/9147337"> M. A. Xavier, A. K. de Souza, G. L. Plett and M. S. Trimboli, "A low-cost mpc-based algorithm for battery power limit estimation", 2020 American Control Conference (ACC), pp. 1161-1166, 2020.</a>
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+<a href="https://mountainscholar.org/handle/10976/167269"> A. K. de Souza. (2020). Advanced Predictive Control Strategies for Lithium-Ion Battery Management Using a Coupled Electro-Thermal Model [Master thesis, University of Colorado, Colorado Springs]. ProQuest Dissertations Publishing.</a>
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+<a href="https://ieeexplore.ieee.org/document/9124431"> A. K. de Souza, G. Plett and M. S. Trimboli, "Lithium-Ion Battery Charging Control Using a Coupled Electro-Thermal Model and Model Predictive Control," 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), 2020, pp. 3534-3539, doi: 10.1109/APEC39645.2020.9124431.</a>
+
+
