@@ -8,7 +8,7 @@ permalink: /publications/
 
 **K. de Souza, A.**, Plett, G.L., Trimboli, M.S.,, “A Model Predictive Control-Based State of Power Estimation Algorithm Using Adaptive Weighting,” in Proc. 35nd Electric Vehicle Symposium (EVS35), Oslo, Norway, (June 2022).
 
-**. de Souza, A.**, Plett, G.L., Trimboli, M.S.,, “A Physics-based Electrode-level Thermal Model for Advanced Battery Management,” in Proc. 35nd Electric Vehicle Symposium (EVS35), Oslo, Norway, (June 2022).
+**K. de Souza, A.**, Plett, G.L., Trimboli, M.S.,, “A Physics-based Electrode-level Thermal Model for Advanced Battery Management,” in Proc. 35nd Electric Vehicle Symposium (EVS35), Oslo, Norway, (June 2022).
 
 <a href="https://ieeexplore.ieee.org/document/9488286">M. S. Trimboli, **A. K. de Souza** and M. A. Xavier, "Stability and Control Analysis for Series-Input/Parallel-Output Cell Balancing System for Electric Vehicle Battery Packs," in IEEE Control Systems Letters, vol. 6, pp. 1388-1393, 2022, doi: 10.1109/LCSYS.2021.3097875. </a>
 
