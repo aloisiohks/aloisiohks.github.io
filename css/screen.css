@@ -214,3 +214,7 @@ ul.pages {
   #related h2 {
     margin-bottom: 1em;
   }
+
+.icons-social i {
+	padding: 10px;
+}
