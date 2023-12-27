@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div id="page">
+{{ content }}
+</div>
+
+<div id="related">
+  <h2>Related Pages</h2>
+  <ul class="pages">
+    {% for page in site.related_pages limit:3 %}
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endfor %}
+  </ul>
+</div>
