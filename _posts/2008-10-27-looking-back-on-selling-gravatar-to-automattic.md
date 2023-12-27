@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Physics-based modeling: An introduction
+title: Battery modelling - Physics-based models
 ---
 
 {{ page.title }}
