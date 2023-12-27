@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking back on Selling Gravatar to Automattic
+title: Physics-based modeling: An introduction
 ---
 
 {{ page.title }}
