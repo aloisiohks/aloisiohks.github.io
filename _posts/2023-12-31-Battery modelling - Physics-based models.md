@@ -15,7 +15,7 @@ This chapter will review the standard P2D model and the derived LP P2D model in 
 
 
 $$\begin{align*}
-0\leq x\leq L^{\mathrm{n}} &  & \text{negative\;electrode}\\
+0\leq x\leq L^{\mathrm{n}} &  & \text{negative electrode}\\
 L^{\mathrm{n}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}} &  & \text{separator}\\
-L^{\mathrm{n}}+L^{\mathrm{s}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}}+L^{\mathrm{p}} &  & \text{positive\;electrode}
+L^{\mathrm{n}}+L^{\mathrm{s}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}}+L^{\mathrm{p}} &  & \text{positive electrode}
 \end{align*}$$
