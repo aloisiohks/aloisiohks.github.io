@@ -13,10 +13,9 @@ In an ideal BMS, one would ideally like to have sensors embedded within the the 
 
 This chapter will review the standard P2D model and the derived LP P2D model in Sections [sec:The-P2D-model] and [sec:Lumped-parameter-P2D-model], respectively. Then, Section [sec:LP-P2D-model enhancements] will then present model enhancements to the LP P2D model.
 
-$$f(x) = x^2 - x^\frac{1}{\pi}$$
 
-```math
-0\leq x\leq L^{\mathrm{n}}		\text{negative\;electrode}
-L^{\mathrm{n}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}}		\text{separator}
-L^{\mathrm{n}}+L^{\mathrm{s}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}}+L^{\mathrm{p}}		\text{positive\;electrode} 
-```
+$$\begin{align*}
+0\leq x\leq L^{\mathrm{n}} &  & \text{negative\;electrode}\\
+L^{\mathrm{n}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}} &  & \text{separator}\\
+L^{\mathrm{n}}+L^{\mathrm{s}}\leq x\leq L^{\mathrm{n}}+L^{\mathrm{s}}+L^{\mathrm{p}} &  & \text{positive\;electrode}
+\end{align*}$$
