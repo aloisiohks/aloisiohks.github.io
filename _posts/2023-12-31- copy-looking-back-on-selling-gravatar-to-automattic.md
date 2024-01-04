@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Battery modelling - Equivalent circuit models
+title: Lithium-ion battery modelling - Equivalent circuit modelling
 ---
 
 {{ page.title }}
