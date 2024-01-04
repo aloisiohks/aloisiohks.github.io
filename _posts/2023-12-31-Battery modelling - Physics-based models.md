@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lithium-ion battery modelling: Control-oriented physics-based modelling 
+title: Lithium-ion battery modelling: A control-oriented physics-based approach 
 ---
 
 {{ page.title }}
