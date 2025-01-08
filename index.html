@@ -1,0 +1,22 @@
+---
+layout: default
+title: Aloisio Kawakita de Souza
+---
+
+<div id="Home">
+  <h1>Blog Posts</h1>
+  <ul class="posts/modeling">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+<br>
+<br>
+<br>
+
+</div>
+
+
+
+ 
+</div>
